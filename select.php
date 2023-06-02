@@ -28,7 +28,6 @@ catch (\PDOException $e)
     // echo "Product_code: " . $row['product_code'] . "\n";
     // echo "Product_naam: " . $row['product_naam'] . "\n";
     // echo "Prijs_per_stuk: " . $row['prijs_per_stuk'] . "\n";
-     // Add more fields as needed
    //  echo "\n";
 // }
 
